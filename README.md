@@ -1,2 +1,2 @@
-# EGN3000L
-Group 7: Fro7en Snowbot Code
+# Group 7: Fro7en 
+This respository contains code for the Olaf Line Following Robot
